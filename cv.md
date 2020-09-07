@@ -6,6 +6,7 @@
   - _email_: igor.simatic@gmail.com
   - _LinkedIn_: https://www.linkedin.com/in/ihar-berasneu-4051681a1/
   - _Telegram_: https://t.me/BIN_12345
+  - _GitHub_: https://github.com/gandigap
  
 
 ## Summary
